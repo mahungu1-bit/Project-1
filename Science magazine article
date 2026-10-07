@@ -1,0 +1,503 @@
+<p>Vanessa</p>
+
+<H1>Hello world</H1>
+<H2>Hello world</H2>
+<H3>Hello world</H3>
+<H4>Hello world</H4>
+<H5>Hello world</H5>
+<H6>Hello world</H6>
+
+<BUtton>Click me</BUtton>
+<DIv></DIv>
+<H1>i am h1 tag</H1><SPan>i am a span tag</SPan>
+
+
+<DIv></DIv>
+ 
+<Ul></Ul>
+<Li>item 1</Li>
+<Li>item 2</Li>
+<Li>item 3</Li>
+<Li>item 4</Li>
+<a href=""></a>
+
+<img src="" https://img.magnific.com/free-photo/courage-man-jump-through-gap-hill-business-concept-idea_1323-262.jpg?semt=ais_hybrid&w=740&q=80alt="image
+">
+
+<img src="data:image/jpeg;base64,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" alt="wallpaper
+"
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Website</title>
+</head>
+
+<body>
+
+    <header>
+        <h1>Welcome to My Website</h1>
+    </header>
+
+    <p>This is my first HTML page.</p>
+
+    <img src="photo.jpg" alt="My photo">
+
+    <br>
+
+    <a href="https://example.com">Visit Website</a>
+
+    <h2>My Hobbies</h2>
+
+    <ul>
+        <li>Football</li>
+        <li>Music</li>
+        <li>Programming</li>
+    </ul>
+
+    <button>Click Me</button>
+
+    <form>
+        <label>Name:</label>
+        <input type="text">
+
+        <label>Email:</label>
+        <input type="email">
+
+        <button type="submit">Submit</button>
+    </form>
+
+</body>
+</html>
+
+<textarea name="Notes" id="1"></textarea>
+<select name="Work" id="1"></select>
+<option value="Kenya"></option>
+<table></table>
+    <tr>
+        <th>Header 1</th>
+        <th>Header 2</th>
+    </tr>
+    <tr>
+        <td>Data 1</td>
+        <td>Data 2</td>
+    </tr>
+
+<ol></ol>
+    <li>Item 1</li>
+    <li>Item 2</li>
+    <li>Item 3</li>
+
+ <button>Click Me</button>   
+
+ <p style="color: blue;">This is a blue paragraph.</p>
+<h1 style="color: red;">This is a red heading.</h1>
+<p style="color: green;">This is a green paragraph.</p>
+<h2 style="color: purple;">This is a purple heading.</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>My Introduction</title>
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            scroll-behavior: smooth;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            background: #0f172a;
+            color: white;
+            line-height: 1.6;
+        }
+
+        /* Navigation */
+        header {
+            background: #020617;
+            position: fixed;
+            width: 100%;
+            top: 0;
+            z-index: 1000;
+        }
+
+        nav {
+            max-width: 1100px;
+            margin: auto;
+            padding: 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .logo {
+            color: #38bdf8;
+            font-size: 24px;
+        }
+
+        .nav-links {
+            display: flex;
+            list-style: none;
+            gap: 25px;
+        }
+
+        .nav-links a {
+            color: white;
+            text-decoration: none;
+            transition: 0.3s;
+        }
+
+        .nav-links a:hover {
+            color: #38bdf8;
+        }
+
+        /* Hero */
+        .hero {
+            min-height: 100vh;
+            max-width: 1100px;
+            margin: auto;
+            padding: 120px 30px 50px;
+
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 50px;
+        }
+
+        .hero-text {
+            max-width: 600px;
+        }
+
+        .small-text {
+            color: #38bdf8;
+            font-weight: bold;
+            letter-spacing: 3px;
+        }
+
+        .hero h1 {
+            font-size: 60px;
+            margin: 10px 0;
+        }
+
+        .hero h2 {
+            color: #94a3b8;
+            margin-bottom: 20px;
+        }
+
+        .hero p {
+            color: #cbd5e1;
+            margin-bottom: 25px;
+        }
+
+        .btn {
+            display: inline-block;
+            background: #38bdf8;
+            color: #020617;
+            padding: 12px 25px;
+            border-radius: 25px;
+            text-decoration: none;
+            font-weight: bold;
+            transition: 0.3s;
+        }
+
+        .btn:hover {
+            background: #0ea5e9;
+            transform: translateY(-3px);
+        }
+
+        /* Profile */
+        .profile-circle {
+            width: 250px;
+            height: 250px;
+            border-radius: 50%;
+
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+            font-size: 90px;
+
+            background: linear-gradient(
+                135deg,
+                #38bdf8,
+                #6366f1
+            );
+
+            box-shadow: 0 0 50px rgba(56, 189, 248, 0.3);
+        }
+
+        /* Sections */
+        .section {
+            max-width: 900px;
+            margin: auto;
+            padding: 100px 30px;
+            text-align: center;
+        }
+
+        .section h2 {
+            font-size: 35px;
+            margin-bottom: 25px;
+            color: #38bdf8;
+        }
+
+        .section p {
+            color: #cbd5e1;
+        }
+
+        /* Skills */
+        .skills {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            flex-wrap: wrap;
+        }
+
+        .skill-card {
+            background: #1e293b;
+            padding: 30px;
+            width: 250px;
+            border-radius: 15px;
+            transition: 0.3s;
+        }
+
+        .skill-card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+        }
+
+        .skill-card h3 {
+            color: #38bdf8;
+            margin-bottom: 10px;
+        }
+
+        /* Contact */
+        .contact button {
+            margin-top: 20px;
+            padding: 12px 25px;
+            border: none;
+            border-radius: 25px;
+
+            background: #38bdf8;
+            color: #020617;
+
+            font-weight: bold;
+            cursor: pointer;
+
+            transition: 0.3s;
+        }
+
+        .contact button:hover {
+            background: #0ea5e9;
+            transform: scale(1.05);
+        }
+
+        /* Footer */
+        footer {
+            background: #020617;
+            text-align: center;
+            padding: 25px;
+            color: #94a3b8;
+        }
+
+        /* Mobile */
+        @media (max-width: 700px) {
+
+            .nav-links {
+                gap: 10px;
+                font-size: 14px;
+            }
+
+            .hero {
+                flex-direction: column-reverse;
+                text-align: center;
+            }
+
+            .hero h1 {
+                font-size: 45px;
+            }
+
+            .profile-circle {
+                width: 180px;
+                height: 180px;
+                font-size: 60px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <header>
+        <nav>
+            <h2 class="logo">MyPortfolio</h2>
+
+            <ul class="nav-links">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Home -->
+    <section id="home" class="hero">
+
+        <div class="hero-text">
+
+            <p class="small-text">HELLO, I'M</p>
+
+            <h1>Nikolai</h1>
+
+            <h2>Software Engineering</h2>
+
+            <p>
+                Welcome to my personal website.
+                I create modern, responsive and
+                user-friendly websites.
+            </p>
+
+            <a href="#about" class="btn">
+                Learn More
+            </a>
+
+        </div>
+
+        <div class="profile">
+            <div class="profile-circle">
+                👨‍💻
+            </div>
+        </div>
+
+    </section>
+
+    <!-- About -->
+    <section id="about" class="section">
+
+        <h2>About Me</h2>
+
+        <p>
+            Hi! My name is <strong>Nikolai</strong>.
+            I'm interested in technology, programming
+            and web development. I enjoy learning new
+            things and building creative projects.
+        </p>
+
+    </section>
+
+    <!-- Skills -->
+    <section id="skills" class="section">
+
+        <h2>My Skills</h2>
+
+        <div class="skills">
+
+            <div class="skill-card">
+                <h3>HTML</h3>
+                <p>
+                    Building the structure of modern websites.
+                </p>
+            </div>
+
+            <div class="skill-card">
+                <h3>CSS</h3>
+                <p>
+                    Creating beautiful and responsive designs.
+                </p>
+            </div>
+
+            <div class="skill-card">
+                <h3>JavaScript</h3>
+                <p>
+                    Adding interaction and functionality.
+                </p>
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- Contact -->
+    <section id="contact" class="section contact">
+
+        <h2>Contact Me</h2>
+
+        <p>
+            Email: nikolai@email.com
+        </p>
+
+        <button onclick="showMessage()">
+            Say Hello 👋
+        </button>
+
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>
+            © 2026 Nikolai. All rights reserved.
+        </p>
+    </footer>
+
+    <!-- JavaScript -->
+    <script>
+        function showMessage() {
+            alert("Thanks for visiting my website! 👋");
+        }
+    </script>
+
+</body>
+</html>
+
+
+

@@ -1,0 +1,232 @@
+header {
+    background-color: navy;
+    color: white;
+    padding: 20px;
+}
+
+.about {
+    background-color: lightblue;
+    padding: 20px;
+    border: 2px solid blue;
+}
+
+.services {
+    background-color: lightgreen;
+    padding: 20px;
+    border: 2px solid green;
+}
+
+.contact {
+    background-color: lightyellow;
+    padding: 20px;
+    border: 2px solid orange;
+}
+
+
+
+
+
+body {
+    background-color: lightgray;
+}
+
+/* Header */
+header {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    border: 3px solid red;
+}
+
+/* First section */
+.story {
+    background-color: lightblue;
+    border: 3px solid blue;
+    height: 200px;
+    padding: 20px;
+    margin: 20px;
+}
+
+/* Second section */
+.characters {
+    background-color: lightgreen;
+    border: 3px solid green;
+    height: 200px;
+    padding: 20px;
+    margin: 20px;
+}
+
+/* Paragraphs inside the sections */
+.story p {
+    border: 2px solid black;
+    height: 80px;
+    padding: 10px;
+}
+
+.characters p {
+    border: 2px solid black;
+    height: 80px;
+    padding: 10px;
+}
+
+
+/* 1. color
+   2. background-color
+   3. font-size
+   4. font-family
+   5. font-weight
+   6. text-align
+   7. text-decoration
+   8. text-transform
+   9. line-height
+   10. letter-spacing
+*/
+
+body {
+    background-color: #000000;
+    color: rgb(153, 151, 151);
+    font-family: Arial, sans-serif;
+    line-height: 1.5;
+}
+
+/* Header */
+
+#main-header {
+    background-color: black;
+    color: white;
+    width: 90%;
+    max-width: 800px;
+    min-height: 150px;
+
+    padding: 20px;
+    margin: 20px auto;
+
+    border: 3px solid red;
+    border-radius: 15px;
+
+    text-align: center;
+}
+
+#main-header h1 {
+    font-size: 40px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+
+#main-header p {
+    text-decoration: underline;
+}
+
+
+/* Sections */
+
+main {
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+}
+
+
+/* First section */
+
+.about {
+    width: 80%;
+    height: 250px;
+
+    background-color: #ddd;
+    color: black;
+
+    padding: 20px;
+    margin: 20px;
+
+    border: 3px solid blue;
+    border-radius: 10px;
+
+    box-shadow: 5px 5px 10px black;
+
+    overflow: hidden;
+}
+
+.about h2 {
+    text-align: center;
+}
+
+.about p {
+    font-size: 18px;
+    line-height: 1.8;
+}
+
+
+/* Second section */
+
+.character {
+    width: 80%;
+    height: 250px;
+
+    background-color: darkred;
+
+    padding: 20px;
+    margin: 20px;
+
+    border: 3px solid white;
+    border-radius: 20px;
+
+    position: relative;
+
+    opacity: 0.9;
+}
+
+
+/* Button */
+
+button {
+    cursor: pointer;
+
+    padding: 10px 20px;
+
+    background-color: black;
+    color: white;
+
+    border: 2px solid white;
+    border-radius: 5px;
+}
+
+
+/* Footer */
+
+footer {
+    text-align: center;
+
+    background-color: black;
+
+    padding: 20px;
+    margin-top: 30px;
+}
+
+
+/* Position example */
+
+.character h2 {
+    position: relative;
+    top: 10px;
+    left: 10px;
+
+    z-index: 2;
+
+}
+
+@media only screen and (max-width: 375px) {
+    .about, .character {
+        width: 95%;
+        height: auto;
+    }
+}
+flexcontainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}

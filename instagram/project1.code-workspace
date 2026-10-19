@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../.Trash/sharks"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "sharks"
+	}
+}

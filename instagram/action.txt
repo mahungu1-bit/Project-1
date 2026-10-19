@@ -1,0 +1,6 @@
+-creating new accounts
+-creating new posts
+-linking other users posts
+-login in
+-change username
+-follow people

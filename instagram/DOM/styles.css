@@ -1,0 +1,66 @@
+h1{
+    text-align: center;
+    color: blue;
+    
+}
+
+#div1{
+    display: flex;
+    justify-content: space-around;
+}
+
+p{
+  border: 1px solid black; 
+  padding: 2%;
+  
+}
+
+.section-1{
+    background-color: aquamarine;
+    width: 43%;
+
+}
+
+.section-2{
+    background-color: rgb(241, 128, 15);
+
+}
+
+#section-2-p-2{
+    height: 40vh;
+    margin-top: 15%;
+}
+
+/* #s-1-p-2{
+    padding-right:0% ;
+} */
+
+
+@media only  screen and (max-width: 500px) {
+    #div1{
+        display: block;
+    }
+
+    .section-1{
+        width: 92%;
+        background-color: brown;
+
+    }
+}
+
+@media only  screen and (max-width: 390px) {
+    .section-1{
+        width: 92%;
+        background-color: rgb(21, 215, 134);
+
+    }
+} 
+
+form{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    margin-left: 35%;
+    margin-top: 5%;
+}
+

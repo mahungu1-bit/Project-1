@@ -1,0 +1,50 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MyContacts</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <div class="container">
+        <h1> My Contacts</h1>
+        <p class="subtitle">Keep track of names and phone numbers.</p>
+
+        <section class="card">
+            <h2>Add a Contact</h2>
+
+            <form id="contact-form">
+                <label for="name">Full Name</label>
+                <input
+                    type="text"
+                    id="name"
+                    name="name"
+                    placeholder="Enter full name"
+                    required
+                >
+
+                <label for="phone">Phone Number</label>
+                <input
+                    type="tel"
+                    id="phone"
+                    name="phone"
+                    placeholder="Enter phone number"
+                    required
+                >
+
+                <button type="submit">Add Contact</button>
+                <p id="message" role="status"></p>
+            </form>
+        </section>
+
+        <section class="card">
+            <h2>Contact List</h2>
+            <p id="contact-count"></p>
+            <ul id="list"></ul>
+        </section>
+    </div>
+</body>
+</html>

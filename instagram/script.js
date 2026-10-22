@@ -100,34 +100,6 @@ console.log(newPost("mkadinali","1234567890","wasedrtfgyuheyhwtdcet","Clock it")
 
 console.log(users)
 
-linkAccounts(1, 2);
-    
-
-const accounts = [
-  { id: 1, username: "alex_ig", linkedAccounts: [] },
-  { id: 2, username: "alex_backup", linkedAccounts: [] }
-];
-
-function linkAccounts(firstId, secondId) {
-  const first = accounts.find(a => a.id === firstId);
-  const second = accounts.find(a => a.id === secondId);
-
-  if (!first || !second || firstId === secondId) {
-    return false;
-  }
-
-  if (!first.linkedAccounts.includes(secondId)) {
-    first.linkedAccounts.push(secondId);
-  }
-
-  if (!second.linkedAccounts.includes(firstId)) {
-    second.linkedAccounts.push(firstId);
-  }
-
-  return true;
-}
-
-linkAccounts(1, 2);
 
 // LIKE A POST
 function likePost(username, postIndex) {

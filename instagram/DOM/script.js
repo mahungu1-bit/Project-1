@@ -3,8 +3,6 @@ let mybutton = document.getElementById("home101")
 let form1 = document.getElementById("form1")
 
 
-let users = []
-
 
 form1.addEventListener("submit", function(event){
     event.preventDefault()
